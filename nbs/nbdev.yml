@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://utsmok.github.io/nbdev"
+  description: "nbev test repo"
+  repo-branch: main
+  repo-url: "https://github.com/utsmok/nbdev"
